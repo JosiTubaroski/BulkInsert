@@ -20,3 +20,5 @@ O "Bulk Insert" é uma técnica utilizada em processos de ETL (Extract, Transfor
 Em resumo, o Bulk Insert é uma técnica valiosa no processo de ETL, pois melhora o desempenho, simplifica a carga de grandes volumes de dados e ajuda a manter a integridade dos dados durante o carregamento no banco de dados de destino. Isso contribui para um processo de ETL mais eficiente e confiável.
 
 <b>Exemplo de Procedure que utiliza BulkInsert para Carregamento de Dados:</b>
+
+https://github.com/JosiTubaroski/BulkInsert/blob/main/ExemploProcedures/01_Procedure_BulkInsert.sql
